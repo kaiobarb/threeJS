@@ -1,0 +1,14 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "A three js test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "threejs"
+  ],
+  "author": "Kaio Barbosa",
+  "license": "ISC"
+}
